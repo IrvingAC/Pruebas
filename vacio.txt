@@ -1,2 +1,2 @@
-Hola mi nombre es:
-Mi edad es:
+Hola mi nombre es: juanito
+Mi edad es:12
